@@ -6,3 +6,6 @@ hello world
 
 hello idea
 
+show grants
+
+

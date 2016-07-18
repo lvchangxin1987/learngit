@@ -10,3 +10,7 @@ show grants
 
 no zuo no die
 
+Git tracks changes of files
+
+
+

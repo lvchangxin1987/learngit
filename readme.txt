@@ -8,4 +8,5 @@ hello idea
 
 show grants
 
+no zuo no die
 

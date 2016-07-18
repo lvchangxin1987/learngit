@@ -12,5 +12,7 @@ no zuo no die
 
 Git tracks changes of files
 
+Redis cache
+
 
 

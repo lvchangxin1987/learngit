@@ -1,8 +1,5 @@
 hello,changxin 
-
-hello,doubi
 hello world
-
 
 hello idea
 
@@ -14,5 +11,4 @@ Git tracks changes of files
 
 Redis cache or Mongodb cache
 
-
-
+cancel update or insert
